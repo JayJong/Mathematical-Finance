@@ -1,2 +1,3 @@
 # Mathematical-Finance
-Project
+
+This project is done individually over the span of approximately 1 month
